@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.moviePic{
+	height:auto;
+	width:auto;
+	opacity:95%;
+}
+.movieDetail{
+	color:palevioletred;
+	
+	position:relative;
+	top:0px;
+	width:300px;
+	text-align:center;
+	font-size:20px;
+	background-image:linear-gradient(to right,red,black,gold,blue)
+}
